@@ -8,7 +8,7 @@ public class CmsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CmsApplication.class, args);
-		// 야옹df
+		// 야옹dfhjh
 	}
 
 }
